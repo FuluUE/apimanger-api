@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules
+# dist directory
+build
+# api
+upload
+src/config/env/production.js
+coverage
